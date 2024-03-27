@@ -42,7 +42,6 @@ const PatientDetails = ({ registrationId }) => {
       <p className="patient-details-item">relationship: {patientDetails.relationship}</p>
       <p className="patient-details-item">patient merge {patientDetails.patient_merge}</p>
       <p className="patient-details-item">sms notification: {patientDetails.sms_notification}</p>
-
     </div>
   );
 };
