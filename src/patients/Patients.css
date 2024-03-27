@@ -1,0 +1,56 @@
+/* Patients.css */
+
+.patients-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .patients-header {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .patients-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .patient-item {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+  }
+  
+  .patient-item:last-child {
+    border-bottom: none;
+  }
+  
+  .patient-name {
+    font-weight: bold;
+  }
+  
+  .patient-age {
+    color: #666;
+  }
+  .table-container {
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    padding: 8px;
+    border: 1px solid #dddddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+    

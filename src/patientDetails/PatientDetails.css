@@ -1,0 +1,19 @@
+
+.patient-details-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .patient-details-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .patient-details-item {
+    margin-bottom: 5px;
+  }
+  
